@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Gurparas Bajwa
-CS 193
-Lab #1
+#Gurparas Bajwa
+#CS 193
+#Lab #1
 
 - Bulleted
 - List
