@@ -15,8 +15,9 @@ Syntax highlighted code block
 #CS 193
 #Lab #1
 
-- Bulleted
-- List
+- Instructors
+- Easy
+- Classmates
 
 1. Numbered
 2. List
